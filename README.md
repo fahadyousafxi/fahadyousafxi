@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+Developer+at+Stack+Buffers+and+Code+Prisma+💛+👍;UI/UX+Designer+using+Figma+👍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+Developer+at+Stack+Buffers;+and+Code+Prisma+💛+👍;UI/UX+Designer+using+Figma+👍)](https://git.io/typing-svg)
 
 <!--
 **fahadyousafxi/fahadyousafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
